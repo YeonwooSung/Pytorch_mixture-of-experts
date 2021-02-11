@@ -11,14 +11,14 @@ This example was tested using torch v1.0.0 and Python v3.6.1 on CPU.
 
 To install the requirements run:
 
-```pip install -r requirements.py```
+```pip install -r requirements.txt```
 
 
 # Example
 
-The file ```example.py``` contains an example illustrating how to train and evaluate the MoE layer with dummy inputs and targets. To run the example:
+The file ```test.py``` contains an example illustrating how to train and evaluate the MoE layer with dummy inputs and targets. To run the example:
 
-```python example.py```
+```python test.py```
 
 
 
